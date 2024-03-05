@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">android-studio-project</string>
+    <string name="welcome_msg">Welcome</string>
+    <string name="goodbye_msg">Goodbye</string>
+</resources>
